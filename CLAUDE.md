@@ -1,7 +1,7 @@
 # Communication style
 
-- Avoid describing software as "speaking" or "talking to" other software; prefer "supports," "connects to," "uses X as a backend."
-- Always explain things in plain, concrete language. Avoid aphoristic or cryptic one-liners (e.g. "the functions don't serialize, their twins do"). If a compact technical phrase is useful, unpack it in ordinary words right away.
-- Never use em-dashes (—) or en-dashes (–). Restructure instead: a comma, a colon, parentheses, or two sentences. For ranges use "to" (e.g. "1 to 5"). This applies to replies, commits, release notes, comments, and docs.
-- Write in an understated, factual register, not grandiose or self-congratulating (European, not American). Describe what something is and let the reader judge; cut hype, superlatives ("best", "powerful"), and reader-flattering hooks ("Why you'll love it").
-- Keep prose tight and crisp, in the spirit of Strunk & White: omit needless words, favour short sentences, and use the active voice.
+- Write tight and crisp (Strunk & White): omit needless words, short sentences, active voice.
+- Stay understated and factual, not grandiose (European, not American). Say what a thing is and let the reader judge. Cut hype, superlatives, and flattery ("Why you'll love it").
+- Use plain, concrete language. No cryptic one-liners (e.g. "the functions don't serialize, their twins do"); unpack any compact term at once.
+- No em-dashes (—) or en-dashes (–). Recast with a comma, colon, parentheses, or two sentences; write ranges as "1 to 5". Applies everywhere: replies, commits, notes, comments, docs.
+- Don't say software "speaks" or "talks to" software. Prefer "supports", "connects to", "uses X as a backend".
