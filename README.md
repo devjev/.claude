@@ -9,8 +9,8 @@ tracked file is explicitly un-ignored with a `!` rule.
 
 ## Tracked files
 
-- `CLAUDE.md` — global instructions applied to all projects
-- `.gitignore` — the whitelist itself
+- `CLAUDE.md`: global instructions applied to all projects
+- `.gitignore`: the whitelist itself
 - `LICENSE`
 
 ## Adding a file to tracking
@@ -19,7 +19,7 @@ tracked file is explicitly un-ignored with a `!` rule.
 2. `git add` and commit as usual
 
 Never track `.credentials.json` or anything under `sessions/`, `history.jsonl`,
-or the cache directories — they contain secrets and machine-local state.
+or the cache directories, which contain secrets and machine-local state.
 
 ## License
 

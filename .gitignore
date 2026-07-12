@@ -1,4 +1,4 @@
-# Ignore everything by default — this directory is full of runtime state
+# Ignore everything by default: this directory is full of runtime state
 # and secrets (.credentials.json). Explicitly un-ignore tracked files below.
 *
 
