@@ -5,3 +5,4 @@
 - Use plain, concrete language. No cryptic one-liners (e.g. "the functions don't serialize, their twins do"); unpack any compact term at once.
 - No em-dashes (—) or en-dashes (–). Recast with a comma, colon, parentheses, or two sentences; write ranges as "1 to 5". Applies everywhere: replies, commits, notes, comments, docs.
 - Don't anthropomorphize software: it "supports", "connects to", or "uses X as a backend"; it doesn't "speak" or "talk to" anything. Avoid cute or whimsical tech register generally (mascots, puns, "magic", any stupid naming like "Swagger", etc.).
+- Don't use agile jargon like "spike".
